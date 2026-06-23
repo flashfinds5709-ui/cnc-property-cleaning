@@ -1,18 +1,14 @@
 [
   {
-    "content": "Snapshot the current React/static version without changing it",
+    "content": "Move static CSS and JS files to the GitHub repository root folder",
     "status": "completed"
   },
   {
-    "content": "Create a simple GitHub Pages static site folder with index.html, css, js, and local assets",
+    "content": "Update index.html and README paths/structure for root-level files",
     "status": "completed"
   },
   {
-    "content": "Validate the simple static site locally and with Testing Agent",
-    "status": "completed"
-  },
-  {
-    "content": "Document the new file structure and publish instructions",
-    "status": "completed"
+    "content": "Validate root-level static site with local server and Testing Agent",
+    "status": "in_progress"
   }
 ]
