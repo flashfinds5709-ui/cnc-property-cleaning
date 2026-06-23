@@ -25,7 +25,7 @@ const LOGO_URL =
 const PHONE_DISPLAY = "(631) 401-7026";
 const PHONE_LINK = "tel:6314017026";
 const CONSULTATION_LINK = "https://forms.gle/11TXTAgdrrRsnP749";
-const PLACEHOLDER_EMAIL = "placeholder@example.com";
+const PLACEHOLDER_EMAIL = "propertycare.cnc@gmail.com";
 const GMAIL_LINK = `https://mail.google.com/mail/?view=cm&fs=1&to=${PLACEHOLDER_EMAIL}&su=C%26C%20Property%20Care%20Consultation&body=Hi%20Carlo%20%26%20Collin%2C%0A%0AI%27d%20like%20a%20quote%20for%20power%20washing%20on%20Long%20Island.%0A%0AService%20needed%3A%20%0AAddress%3A%20%0APreferred%20date%2Ftime%3A%20%0A%0AThanks%21`;
 
 const heroImage =

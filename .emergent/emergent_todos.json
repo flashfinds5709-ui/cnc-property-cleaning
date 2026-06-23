@@ -1,10 +1,10 @@
 [
   {
-    "content": "Convert Why Choose Us from dropdown to always-visible content",
+    "content": "Replace placeholder email with propertycare.cnc@gmail.com across CTAs",
     "status": "completed"
   },
   {
-    "content": "Validate static Why Choose Us section with build and testing",
-    "status": "completed"
+    "content": "Validate email CTA update with build and testing",
+    "status": "in_progress"
   }
 ]

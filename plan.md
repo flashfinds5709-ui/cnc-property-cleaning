@@ -1,7 +1,7 @@
 # C&C Property Care Implementation Plan
 
 ## Problem Statement
-Build a one-page landing page for C&C Property Care, a Long Island New York power washing company. The page should be simple and not bulky, using green, blue, and white. It should include top tabs for Services and About Me, strong instant CTAs, many high-quality stock power-washing photos including before/after style pictures, call button for 631-401-7026, real Google Form consultation button, and placeholder Gmail compose email button.
+Build a one-page landing page for C&C Property Care, a Long Island New York power washing company. The page should be simple and not bulky, using green, blue, and white. It should include top tabs for Services and About Me, strong instant CTAs, many high-quality stock power-washing photos including before/after style pictures, call button for 631-401-7026, real Google Form consultation button, and real Gmail compose email button.
 
 ## Required Content
 - Company name: C&C Property Care
@@ -15,7 +15,7 @@ Build a one-page landing page for C&C Property Care, a Long Island New York powe
 
 ## User Choices / Clarifications
 - Google Form: use real Google Form link for now
-- Email: use placeholder email for now
+- Email: use provided email propertycare.cnc@gmail.com
 - Photos: use high-quality stock power-washing photos
 - Tone: simple and not too bulky
 - Logo: use uploaded logo wherever the current brand mark appears
@@ -28,7 +28,7 @@ User stories:
 1. As a visitor, I can immediately understand C&C Property Care offers power washing on Long Island.
 2. As a visitor, I can call 631-401-7026 from a prominent CTA.
 3. As a visitor, I can click Book a Consultation and be routed to the provided Google Form link.
-4. As a visitor, I can click Email and open Gmail compose with a placeholder email prefilled.
+4. As a visitor, I can click Email and open Gmail compose with propertycare.cnc@gmail.com prefilled.
 5. As a visitor, I can navigate using Services and About Me tabs.
 6. As a visitor, I can expand dropdowns for garbage cans, fences, driveways, wooden decks, and custom inquiries, each with relevant imagery.
 7. As a visitor, I can see before/after style images and a clean simple layout.

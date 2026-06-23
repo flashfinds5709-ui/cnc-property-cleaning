@@ -282,7 +282,7 @@
           },
           {
             "label": "Email Us",
-            "href": "https://mail.google.com/mail/?view=cm&fs=1&to=placeholder@example.com&su=C%26C%20Property%20Care%20Consultation&body=Hi%20Carlo%20%26%20Collin%2C%0A%0AI%27d%20like%20a%20quote%20for%20power%20washing%20on%20Long%20Island.%20My%20address%20is%3A%20%0AService%20needed%3A%20%0APreferred%20date%2Ftime%3A%20%0A%0AThanks%21",
+            "href": "https://mail.google.com/mail/?view=cm&fs=1&to=propertycare.cnc@gmail.com&su=C%26C%20Property%20Care%20Consultation&body=Hi%20Carlo%20%26%20Collin%2C%0A%0AI%27d%20like%20a%20quote%20for%20power%20washing%20on%20Long%20Island.%20My%20address%20is%3A%20%0AService%20needed%3A%20%0APreferred%20date%2Ftime%3A%20%0A%0AThanks%21",
             "data-testid": "footer-email-button"
           }
         ],
@@ -365,9 +365,9 @@
       "data_testid_rule": "Add data-testid to every button/link/accordion trigger and key notices (service area, pricing, water supply notice)."
     },
     "email_link": {
-      "placeholder": "placeholder@example.com",
-      "gmail_compose_url": "https://mail.google.com/mail/?view=cm&fs=1&to=placeholder@example.com",
-      "fallback_mailto": "mailto:placeholder@example.com?subject=C%26C%20Property%20Care%20Consultation"
+      "placeholder": "propertycare.cnc@gmail.com",
+      "gmail_compose_url": "https://mail.google.com/mail/?view=cm&fs=1&to=propertycare.cnc@gmail.com",
+      "fallback_mailto": "mailto:propertycare.cnc@gmail.com?subject=C%26C%20Property%20Care%20Consultation"
     },
     "consultation_link": {
       "placeholder": "https://forms.gle/11TXTAgdrrRsnP749"
