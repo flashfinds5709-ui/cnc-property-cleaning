@@ -1,30 +1,10 @@
 [
   {
-    "content": "Create landing page implementation plan and confirm no POC is needed",
+    "content": "Update accordions so all dropdowns are closed by default",
     "status": "completed"
   },
   {
-    "content": "Get simple design guidelines for C&C Property Cleaning landing page",
-    "status": "completed"
-  },
-  {
-    "content": "Select high-quality stock power-washing/property-cleaning images",
-    "status": "completed"
-  },
-  {
-    "content": "Implement one-page React landing page with CTAs, dropdowns, images, and responsive styling",
-    "status": "completed"
-  },
-  {
-    "content": "Run lint/build checks and fix any errors",
-    "status": "completed"
-  },
-  {
-    "content": "Fix frontend preview 502 caused by dev server middleware option mismatch",
-    "status": "completed"
-  },
-  {
-    "content": "Phase 2: End-to-end testing using Testing Agent",
-    "status": "completed"
+    "content": "Validate frontend and test closed-by-default dropdown behavior",
+    "status": "in_progress"
   }
 ]

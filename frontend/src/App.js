@@ -289,7 +289,7 @@ function ServicesSection() {
             <strong>*Customer must provide access to water supply if required.</strong>
           </div>
         </div>
-        <Accordion type="single" collapsible className="service-accordion" defaultValue="garbage-cans">
+        <Accordion type="single" collapsible className="service-accordion">
           {serviceItems.map((service) => (
             <AccordionItem value={service.value} key={service.value} className="service-item">
               <AccordionTrigger className="service-trigger" data-testid={service.testId}>
@@ -349,7 +349,7 @@ function AboutSection() {
         </div>
         <Card className="why-card">
           <CardContent className="why-card-content">
-            <Accordion type="single" collapsible defaultValue="why-us">
+            <Accordion type="single" collapsible>
               <AccordionItem value="why-us" className="why-item">
                 <AccordionTrigger className="why-trigger" data-testid="why-choose-us-accordion">
                   Why choose us?
